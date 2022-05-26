@@ -1,0 +1,13 @@
+{
+  "produtoLista": [
+    {
+      "produtoNome": "Teste 2",
+      "categoria": "Eletronicos",
+      "marca": "Marca 1",
+      "preco": 150,
+      "observacoes": "Sem Observações.",
+      "data": "2022-05-25T03:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
